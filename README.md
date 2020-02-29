@@ -1,6 +1,10 @@
 # MaratonaDev3.0
 Desenvolvimento de site para cadastro de lista de doadores de sangue na semana MaratonaDev 3.0 da RocketSeat. Tecnologias utilizada: Javascript, CSS, HTML e SQL Postgres
 
+![image](https://user-images.githubusercontent.com/40874927/75614006-a8ef1080-5b12-11ea-872f-bcc927be70f9.png)
+
+![image](https://user-images.githubusercontent.com/40874927/75614028-d50a9180-5b12-11ea-9f8b-9deda368421b.png)
+
 Para rodar a aplicação é necessário ter o Postgres configurado.
 
 1 → Criar tabela donors: 
@@ -24,5 +28,5 @@ ALTER TABLE public.donors
 
 2 → No arquivo server.js pode ser necessário alterar as informações de conexão com banco de dados, localizadas na constante "db"
 
-3 → No terminal deve-se executar o comando npm start, a mensagem "iniciei o servidor" aparecerá caso não haja erros.
+3 → No terminal deve-se executar o comando npm start, a mensagem "iniciei o servidor" aparecerá, caso não haja erros.
     
