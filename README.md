@@ -1,5 +1,5 @@
 # MaratonaDev3.0
-Desenvolvimento de site para cadastro de lista de doadores de sangue na semana MaratonaDev 3.0 da RocketSeat. Tecnologias utilizada: Javascript, CSS, HTML e SQL Postgres
+Desenvolvimento de site para cadastro de lista de doadores de sangue na semana MaratonaDev 3.0 da RocketSeat. Tecnologias utilizadas: Javascript, CSS, HTML e SQL Postgres
 
 ![image](https://user-images.githubusercontent.com/40874927/75614006-a8ef1080-5b12-11ea-872f-bcc927be70f9.png)
 
